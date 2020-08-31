@@ -2,6 +2,8 @@
 Aplicación para descargar revistas Yumpu por código
 
 ## 1. Instalación
+Compilar proyecto Yumpu.Aplicacion.
+
 Ejecutar la aplicación Yumpu.exe de la siguiente ruta.
 > ~\Yumpu\Yumpu.Aplicacion\bin\Yumpu.exe
 
